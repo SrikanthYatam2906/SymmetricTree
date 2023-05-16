@@ -8,8 +8,8 @@ public class TreeNode
 
     public TreeNode(int value = 0, TreeNode? left = null, TreeNode? right = null)
     {
-        this.Value = value;
-        this.Left = left;
-        this.Right = right;
+        Value = value;
+        Left = left;
+        Right = right;
     }
 }
